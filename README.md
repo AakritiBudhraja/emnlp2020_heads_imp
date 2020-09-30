@@ -1,1 +1,1 @@
-# on_the_weak_link_between_importance_and_prunability_of_attention_heads
+# On the weak link between importance and prunability of attention heads
