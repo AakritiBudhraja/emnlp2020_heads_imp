@@ -6,7 +6,7 @@ The datasets used are the following:
 1) For Transformer: WMT’14 English-Russian (EN-RU) and English-German (EN-DE) 
 2) For BERT: GLUE datasets(MNLI-m, QQP, QNLI and SST-2)
 
-The code was forked from the following repositories:
+The code was forked from the following repositories: <br>
 (1) <a href="https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/models">https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/models
-</a>
+</a> <br>
 (2) <a href="https://github.com/google-research/bert">https://github.com/google-research/bert</a>
