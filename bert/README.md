@@ -14,4 +14,10 @@ bash run_bert.sh <br>
 The checkpoint used for BERT is: uncased_L-12_H-768_A-12 [Ref: <a href="https://github.com/google-research/bert">https://github.com/google-research/bert</a>]
 
 # Hyperparameters details
-Batch size and Learning Rate used for the four GLUE tasks are:
+This was run on four GLUE tasks: SST-2, QQP, MNLI-m and QNLI.
+Batch size used = 128 for all the tasks.
+Learning rates used for the four GLUE tasks are:
+(1) SST-2: 2e-5
+(2) QQP: 5e-5
+(3) MNLI-m: 3e-5
+(4) QNLI: 5e-5
